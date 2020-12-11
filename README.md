@@ -1,7 +1,7 @@
-This a webscraping project that I conducted for a research article on Isis propaganda and subsequent attacks. One of the variables in the project was media portrayal of ISIS attacks.
+This is a webscraping project that I conducted for a research article on ISIS propaganda and terrorist attacks. One of the variables in the project was media portrayal of ISIS attacks.
 
-The project:
-1. It searches the BBC website for all the articles that about ISIS and bombs, airstrikes, and drones, and names of specific countries between April 1, 2013 and December 31, 2016
+The webscraping script does the following:
+1. It searches the BBC website for all the articles containing keywords such as "ISIS" and "bombs", "airstrikes", "drones", and names of specific countries between April 1, 2013 and December 31, 2016
 
 2. It saves all the URLs, dates, and titles
 
